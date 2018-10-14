@@ -81,8 +81,8 @@ dede00	 //Jump external to function
 008000	 //Jump target
 ff4040	 //Register target
 [GRAPH]
-b2b2b2	 //Top color
-b2b2b2	 //Bottom color
+242424	 //Top color
+242424	 //Bottom color
 f5f5f5	 //Normal title
 989faa	 //Selected title
 54585e	 //Current title
